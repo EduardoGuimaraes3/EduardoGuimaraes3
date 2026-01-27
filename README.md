@@ -6,10 +6,10 @@ Me chamo Eduardo do Nascimento Guimarães, tenho 22 anos e sou natural de Santan
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img style="padding-right: 10px" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoGuimaraes3&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+        <img style="padding-right: 10px" height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoGuimaraes3&theme=tokyonight&include_all_commits=true&locale=pt-br" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoGuimaraes3&theme=tokyonight&include_all_commits=true&locale=pt-br&layout=compact&langs_count=8&card_width=320" />
+        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoGuimaraes3&theme=tokyonight&include_all_commits=true&locale=pt-br&layout=compact&langs_count=8&card_width=320" />
     </a>>
 </div>
 
@@ -20,7 +20,7 @@ Me chamo Eduardo do Nascimento Guimarães, tenho 22 anos e sou natural de Santan
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div style="margin-top: 30px"> 
+<div style="margin-top: 50px"> 
   <a href="https://www.youtube.com/@iamedu3227/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eduu.g_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eduuhguimaraes64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
