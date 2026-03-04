@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Me chamo Eduardo do Nascimento Guimarães, tenho 22 anos e sou natural de Santana/AP, porém moro em Curitiba/PR. Concluí o ensino médio no Colégio Estadual Professor Elias Abrahão, me Formei em 2024 no Curso de Graduação em Sistema para Internet na Instituição Estácio de Sá. Sou Incipiente na área de Programação, porém com muito conhecimento na área de Tecnolgia, incluindo conhecimento de Web Design como UI Desing e Iniciei estudos sobre o Sistema Salesforce.
+Me chamo Eduardo do Nascimento Guimarães, tenho 22 anos e sou natural de Santana/AP, porém moro em Curitiba/PR. Concluí o ensino médio no Colégio Estadual Professor Elias Abrahão, me Formei em 2024 no Curso de Graduação em Sistema para Internet na Instituição Estácio de Sá. Sou iniciante na área de Programação, porém com muito conhecimento na área de Tecnolgia, incluindo conhecimento de Web Design como UI Desing e Iniciei estudos sobre o Sistema Salesforce.
 
 
 <div> 
