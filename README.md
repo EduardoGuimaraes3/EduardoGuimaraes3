@@ -13,7 +13,7 @@ Me chamo Eduardo do Nascimento Guimarães, tenho 22 anos e sou natural de Santan
 </div>
 
 
-<p , style="display: flex", align="left"><br>
+<p style="display: flex", align="left"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40">
   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
